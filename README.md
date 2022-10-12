@@ -5,4 +5,4 @@
 **C**olocalisation **3**D **A**nalysis of **FISH** images
 
 # Copyright Notice
-I am not offering any license in a prominent place.
+I am not offering any license in a prominent place but feel free to ask.
