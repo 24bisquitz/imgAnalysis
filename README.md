@@ -3,7 +3,7 @@ Offered here are two scripts developed for the analysis of FISH signals, enablin
 Detailed instructions on how to use the scripts will follow, for now feel free to shoot me a message.
 
 # OC3AN-FISH
-**O**verlap **C**alculator **3**D **AN**alysis of **FISH** images
+**O**verlap **C**alculation for **3**D **AN**alysis of **FISH** images
 
 # C3A-FISH
 **C**olocalisation **3**D **A**nalysis of **FISH** images
